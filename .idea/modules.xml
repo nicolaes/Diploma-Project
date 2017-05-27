@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-web-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-web-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Diploma-Project.iml" filepath="$PROJECT_DIR$/.idea/Diploma-Project.iml" />
     </modules>
   </component>
 </project>
